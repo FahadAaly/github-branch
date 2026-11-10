@@ -1,2 +1,2 @@
-let john = "John in the borderland";
+const john = "John in the borderland";
 console.log("John", john);
